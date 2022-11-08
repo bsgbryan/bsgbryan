@@ -1,0 +1,3 @@
+# 👋 Hi, I’m @bsgbryan 😊
+
+I've been a developer for almost 20 years. I currently work in JavaScript/TypeScript/Node.js and am learning Rust!
